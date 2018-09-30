@@ -5,4 +5,4 @@ ADD python_docker.py /
 
 RUN pip install requests
 
-CMD [ "python", "./python_docker.py" ]
+CMD [ "python", "./python_docker.py" ] 
